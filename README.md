@@ -38,3 +38,7 @@ Step 5: Use the Program:
 
 Sample Output
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/0418d57a-90a7-40fc-82d3-2dc6a809099f" />
+
+
+<img width="1294" height="1027" alt="image" src="https://github.com/user-attachments/assets/050a453b-0d84-410d-b37c-0a2e5c87ef14" />
+
